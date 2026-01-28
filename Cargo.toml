@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "src/common",
+    "src/storage",
+]
+resolver = "2"
